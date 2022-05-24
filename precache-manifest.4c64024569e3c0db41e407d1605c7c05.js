@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43c44861f58a7b8cc04249e83b1a274c",
+    "revision": "bfc12c6b99fb9b6f05a7e7a614ab2794",
     "url": "https://surendramg.github.io/csb-ydhd0g/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://surendramg.github.io/csb-ydhd0g/static/css/2.0908cace.chunk.css"
   },
   {
-    "revision": "21a9b1a76fd439b41262",
+    "revision": "96ff82e7434e7c7f51c0",
     "url": "https://surendramg.github.io/csb-ydhd0g/static/css/main.0aacff0b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://surendramg.github.io/csb-ydhd0g/static/js/2.3a93e236.chunk.js"
   },
   {
-    "revision": "21a9b1a76fd439b41262",
-    "url": "https://surendramg.github.io/csb-ydhd0g/static/js/main.b60eeb2f.chunk.js"
+    "revision": "96ff82e7434e7c7f51c0",
+    "url": "https://surendramg.github.io/csb-ydhd0g/static/js/main.f783e48d.chunk.js"
   },
   {
     "revision": "c09bb0a672ab16fb2d0c",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://surendramg.github.io/csb-ydhd0g/static/media/annie-spratt-mcrQoYT8VFE-unsplash.c0906496.jpg"
   },
   {
-    "revision": "a0f933870918e152ccc05854dc113122",
-    "url": "https://surendramg.github.io/csb-ydhd0g/static/media/fusion-medical-animation-rnr8D3FNUNY-unsplash.a0f93387.jpg"
+    "revision": "fdb69fa7f8aaac5df7e2f3bbfa535d8e",
+    "url": "https://surendramg.github.io/csb-ydhd0g/static/media/fusion-medical-animation-rnr8D3FNUNY-unsplash.fdb69fa7.jpg"
   },
   {
     "revision": "f76702741cd4acd3c8e9c2088578b351",
